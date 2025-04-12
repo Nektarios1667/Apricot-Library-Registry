@@ -2,7 +2,7 @@
   "testlib": {
     "id": "613d65433b535366fa95ae4625b98afd",
     "files": [
-      "testlib.apl",
+      "testlib.apl"
     ],
     "description": "Test Apricot library",
     "version": "1.0.0"
